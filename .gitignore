@@ -1,0 +1,3 @@
+*.swp
+/static
+/node_modules
